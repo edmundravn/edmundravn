@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/edmundravn/edmundravn/main/blob/black_banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/edmundravn/edmundravn/blob/main/black_banner.png"/>
 </div>
 <!--
 **edmundravn/edmundravn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
