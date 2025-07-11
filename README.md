@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/edmundravn/edmundravn/blob/main/orange_banner.png"/>
+  <img decoding="async" src="https://github.com/edmundravn/edmundravn/blob/main/black_banner.png"/>
 </div>
 <div id="badges" align="center">
 
@@ -46,6 +46,8 @@ Me apasionan las matemáticas, la programación y sus aplicación en el área de
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
   <img decoding="async" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter-notebook"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
