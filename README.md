@@ -1,6 +1,13 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/edmundravn/edmundravn/blob/main/black_banner.png"/>
 </div>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hctor-hdz-cero-uno/)
+
+[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]()
+
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)]()
+
 <!--
 **edmundravn/edmundravn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
