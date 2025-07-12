@@ -24,9 +24,13 @@
 
 Me apasionan las matemáticas, la programación y sus aplicación en el área de Data Analytics. <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* :telescope: Me encuentro incursionando profesionalmente en el área de IT y Data Analytics. :muscle:
+* :telescope: Soy un Data Analyst Jr 👓 Me encuentro incursionando profesionalmente en el área de IT y Data Analytics. :muscle:
 
-* :seedling: Python y SQL :computer: son mis principales herramientas de desarrollo. Usando librerias como Pandas, Numpy, Scikit Learn, entre otras, me apasiona participar en proyectos identificando insights significativos capaces de potenciar los aspectos más relevantes de los datos. 
+* :seedling: Python y SQL :computer: son mis principales herramientas de desarrollo. Usando librerias como Pandas, Numpy, Scikit Learn, entre otras, me apasiona participar en proyectos identificando insights significativos capaces de potenciar los aspectos más relevantes de los datos.
+  
+* 🏛️ Gráficas, Estadística, Matplotlib, Seaborn 🐳, Tableau, Power BI 
+  
+* 🤖 Generación de modelos de Machine Learning para evaluación de pronósticos y clasificación por clusters. 
 
 * :heartbeat: Busco aprender y mejorar continuamente. En transición hacia una futura especialización como Data Scientist.
 
