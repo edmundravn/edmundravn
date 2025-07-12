@@ -26,7 +26,7 @@ Me apasionan las matemáticas, la programación y sus aplicación en el área de
 
 * :telescope: Me encuentro incursionando profesionalmente en el área de IT y Data Analytics. :muscle:
 
-* :seedling: Python y SQL :computer: son mis principales herramientas de desarrollo. Usando librerias como Pandas, Numpy, Scikit Learn, entre otras, me apasiona participar en proyectos identificando insights capaces de potenciar los aspectos más relevantes de los datos. 
+* :seedling: Python y SQL :computer: son mis principales herramientas de desarrollo. Usando librerias como Pandas, Numpy, Scikit Learn, entre otras, me apasiona participar en proyectos identificando insights significativos capaces de potenciar los aspectos más relevantes de los datos. 
 
 * :heartbeat: Busco aprender y mejorar continuamente. En transición hacia una futura especialización como Data Scientist.
 
