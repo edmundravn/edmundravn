@@ -1,21 +1,19 @@
 
 <div id="header" align="center">
+<h1>
+  Hola, soy Héctor (Data Analyst Jr.) 👓 ☄️💻🧭
+  <br>
+  ¡Bienvenido!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<br>
   <img decoding="async" src="https://github.com/edmundravn/edmundravn/blob/main/black_banner.png"/>
 </div>
 <div id="badges" align="center">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hctor-hdz-cero-uno/)
 
-[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]()
-
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)]()
-
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edmundravn.edmundravn&color=00cf00" alt=""/>
-
-<h1>
-  Hola, mi nombre es Héctor. ¡Bienvenido a este espacio!
-  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 </div>
 
@@ -28,11 +26,11 @@ Me apasionan las matemáticas, la programación y sus aplicación en el área de
 
 * :telescope: Me encuentro incursionando profesionalmente en el área de IT y Data Analytics. :muscle:
 
-* :seedling: Python y SQL :computer: son mis principales herramientas de desarrollo.
+* :seedling: Python y SQL :computer: son mis principales herramientas de desarrollo. Usando librerias como Pandas, Numpy, Scikit Learn, entre otras, me apasiona participar en proyectos identificando insights capaces de potenciar los aspectos más relevantes de los datos. 
 
-* :heartbeat: Busco aprender y mejorar continuamente. 
+* :heartbeat: Busco aprender y mejorar continuamente. En transición hacia una futura especialización como Data Scientist.
 
-* :mailbox: Contáctame a través de Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Héctor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hctor-hdz-cero-uno/)
+* :mailbox: Contáctame a través de Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Linkdn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hctor-hdz-cero-uno/)
 
 ---
 
